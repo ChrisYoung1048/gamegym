@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gamegym.iml" filepath="$PROJECT_DIR$/gamegym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gamegym_android.iml" filepath="$PROJECT_DIR$/android/gamegym_android.iml" />
+    </modules>
+  </component>
+</project>
